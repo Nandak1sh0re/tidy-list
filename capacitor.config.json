@@ -1,0 +1,8 @@
+{
+  "appId": "com.tidylist.app",
+  "appName": "Tidy List",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#e4e8ee"
+  }
+}
